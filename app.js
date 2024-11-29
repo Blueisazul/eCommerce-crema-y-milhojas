@@ -3,15 +3,15 @@ var carritoVisible = false;
 
 // Lista de productos
 var productos = [
-    { titulo: "Milhojas 1", img: "img/pan1.png", precio: "S/ 15.00", descripción: "poner texto según producto" },
-    { titulo: "Croissant", img: "img/pan2.png", precio: "S/ 25.00", descripción: "poner texto según producto" },
-    { titulo: "Milhojas 2", img: "img/pan3.png", precio: "S/ 35.00", descripción: "poner texto según producto" },
-    { titulo: "Alfajor", img: "img/pan4.png", precio: "S/ 18.00", descripción: "poner texto según producto" },
-    { titulo: "Carrot Cake", img: "img/pan5.png", precio: "S/ 32.00", descripción: "poner texto según producto" },
-    { titulo: "Pie 1", img: "img/pan6.png", precio: "S/ 18.00", descripción: "poner texto según producto" },   
-    { titulo: "Empanada", img: "img/pan9.png", precio: "S/ 42.80", descripción: "poner texto según producto" },
-    { titulo: "Pie 2", img: "img/pan7.png", precio: "S/ 54.00", descripción: "poner texto según producto" }/*,     
-    { titulo: "Pie 3", img: "img/pan8.png", precio: "S/ 32.00", descripción: "poner texto según producto" }*/
+    { titulo: "Milhojas 1", img: "img/pan1.png", precio: "S/ 15.00", descripción: "Delicioso pastel de capas crujientes de hojaldre intercaladas con crema pastelera, cubierto con un toque de azúcar glas para un acabado irresistible." },
+    { titulo: "Croissant", img: "img/pan2.png", precio: "S/ 25.00", descripción: "Clásico croissant francés, con una masa hojaldrada y mantequillosa, horneado a la perfección para ofrecer una textura ligera y un sabor exquisito." },
+    { titulo: "Milhojas 2", img: "img/pan3.png", precio: "S/ 35.00", descripción: "Variante única del tradicional milhojas, combinando capas de hojaldre con dulce de leche o crema de chocolate, perfecto para los amantes de los sabores intensos." },
+    { titulo: "Alfajor", img: "img/pan4.png", precio: "S/ 18.00", descripción: "Dulce tradicional con dos capas de galleta suave rellenas de dulce de leche y bañadas en azúcar glas o chocolate. Ideal para cualquier momento del día." },
+    { titulo: "Carrot Cake", img: "img/pan5.png", precio: "S/ 32.00", descripción: "Pastel de zanahoria esponjoso, elaborado con especias cálidas y nueces, coronado con un cremoso glaseado de queso crema que realza su sabor único." },
+    { titulo: "Pie 1", img: "img/pan6.png", precio: "S/ 18.00", descripción: "Clásico pie de manzana, con relleno jugoso y aromático, cubierto con una rejilla de masa dorada y crujiente. Un favorito de siempre." },   
+    { titulo: "Empanada", img: "img/pan9.png", precio: "S/ 42.80", descripción: "Masa dorada y crujiente rellena de opciones como carne, pollo o queso, sazonadas a la perfección para un bocado que te transportará a casa." },
+    { titulo: "Pie 2", img: "img/pan7.png", precio: "S/ 54.00", descripción: "Delicioso pie de limón, con una base crujiente, un relleno cremoso y cítrico, y un suave merengue tostado que lo hace simplemente inolvidable." }/*,     
+    { titulo: "Pie 3", img: "img/pan8.png", precio: "S/ 32.00", descripción: "pExquisito pie de chocolate, con una base crujiente de galleta y un relleno de chocolate sedoso que satisface todos tus antojos." }*/
 ];
 
 //Espermos que todos los elementos de la pàgina cargen para ejecutar el script
