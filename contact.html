@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/mode.css">
     <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="css/contact.css">
+
 
     <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
     <script src="app.js" async></script>
@@ -51,24 +53,56 @@
     <div id="header-pan"></div>
     <script src="js/header.js" defer></script>        
  
-    
-    <section class="contenedores">
-        <!-- Grupo 2: Dos contenedores -->
-        <div class="contenedor-doble">
-            <div class="contenedor-item" style="background-image: url('img/banner.png');">
-                <p class="texto-pequeno">Frescura garantizada</p>
-                <h1 class="texto-grande">Nuestros productos</h1>
-                <h2 class="texto-mediano">Elaborados con los mejores ingredientes</h2>
-                <button class="boton">Explorar</button>
+
+
+
+    <!-- Sección de contacto -->
+    <main class="main-contact">
+        <!-- Banner -->
+        <section class="banner-contact">
+            <img src="img/banner.png" alt="Banner de Contacto" class="banner-img">
+            <div class="banner-text">
+                <h1>Contáctanos</h1>
+                <p>¡Estamos aquí para ayudarte con cualquier consulta!</p>
             </div>
-            <div class="contenedor-item" style="background-image: url('img/banner.png');">
-                <p class="texto-pequeno">Contacto</p>
-                <h1 class="texto-grande">Rellenar contacto</h1>
-                <h2 class="texto-mediano">Contactanos</h2>
-                <button class="boton">Ver más</button>
+        </section>
+
+        <!-- Formulario y mensaje -->
+        <section class="contact-form">
+            <div class="contact-info">
+                <h2>Escríbenos</h2>
+                <p>Déjanos tus datos y nos pondremos en contacto contigo lo más pronto posible.</p>
             </div>
-        </div>
-    </section>
+            <form action="#" method="POST">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="nombre">Nombre</label>
+                        <input type="text" id="nombre" name="nombre" placeholder="Tu nombre" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="apellido">Apellido</label>
+                        <input type="text" id="apellido" name="apellido" placeholder="Tu apellido" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="correo">Correo</label>
+                    <input type="email" id="correo" name="correo" placeholder="Tu correo electrónico" required>
+                </div>
+                <div class="form-group">
+                    <label for="numero">Número de Teléfono</label>
+                    <input type="tel" id="numero" name="numero" placeholder="Tu número de contacto" required>
+                </div>
+                <div class="form-group">
+                    <label for="observaciones">Observaciones</label>
+                    <textarea id="observaciones" name="observaciones" rows="5" placeholder="Escribe tu consulta o comentario aquí..."></textarea>
+                </div>
+                <button type="submit" class="btn-submit">Enviar</button>
+            </form>
+        </section>
+    </main>
+
+
+
 
     <section class="contenedores3">
         <!-- Grupo 3: Un solo contenedor -->
