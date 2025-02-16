@@ -6,35 +6,48 @@
 }
 
 :root {
-    --textButtonCart: #fff;
-    --button-color: #F4952C;
-    --contentButtonCart: #000;
-    --body: #fff;
-    --contentCart: #fff;
-    --textHeader-color: #fff;
+/* Paleta principal */
+    --primary-color: #F4952C;   /* Anaranjado */
+    --secondary-color: #000;    /* Negro */
+    --tertiary-color: #fff;     /* Blanco */
+/* Paleta neutra */
+    --primary-neutro-color: #F4952C;    /* Anaranjado - Cenizo */
+    --secondary-neutro-color: #000;     /* Negro - Blanco */
+    --tertiary-neutro-color: #fff;      /* Blanco - Negro */
+    --tertiary-gray: #fff;              /* Blanco - Gris*/
+    --tertiary-gray2: #555;              /* Blanco - Gris*/
+    --tertiary-gray3: #333;              /* Blanco - Gris*/
+/* Degradados */
+    --primary-white: #ffefd5;           /* Anaranjado opaco - Blanco*/
+    --shadow-black: rgba(0, 0, 0, 0.1); /* Negro - Blanco */
+
     --headerColor: #000;
     --panelCarrito-color: #000;
     --tran-03: all 0.3s ease;
     --darkButton: #292929;
-    --contactText: #F4952C;
-    
+    --contactText: #F4952C;   
 }
 
 body.dark {
-    --textButtonCart: #000;
-    --button-color: #242526;
-    --contentButtonCart: #fff;
-    --body: #000;
-    --contentCart: #efefef;
-    --textHeader-color: #000;
+/* Paleta neutra */
+    --primary-neutro-color: #242526;    /* Anaranjado - Cenizo */
+    --tertiary-neutro-color: #000;      /* Blanco - Negro */
+    --tertiary-gray: #efefef;           /* Blanco - Gris*/
+    --tertiary-gray2: #dcdcdc;          /* Blanco - Gris*/
+    --tertiary-gray3: #dcdcdc;              /* Blanco - Gris*/
+    --secondary-neutro-color: #fff;
+    --tertiary-neutro-color: #000;
+/* Degradados */   
+    --primary-white: #fff;      /* Anaranjado opaco - Blanco*/
+    --shadow-black: rgba(195, 195, 195, 0.1); /* Negro - Blanco */
+
     --headerColor: #F8F8F8;
     --primary-color-dark: #000;  
-    --contactText: #fff;
-    
+    --contactText: #fff;   
 }
 
 .body{
-    background-color: var(--body);
+    background-color: var(--tertiary-neutro-color);
     color: var(--primary-color-dark);
     
 }  
@@ -67,7 +80,7 @@ body.dark {
     transition: .3s;
 }
 .item{
-    background-color: var(--contentCart);
+    background-color: var(--tertiary-gray);
 }
 .contenedor .contenedor-items .item{
     max-width: 200px;
@@ -104,8 +117,8 @@ body.dark {
     display: block;
     margin: 10px auto;
     border: none;
-    background-color: var(--contentButtonCart);
-    color: var(--textButtonCart);
+    background-color: var(--secondary-neutro-color);
+    color: var(--tertiary-neutro-color);
     padding: 5px 15px;
     border-radius: 5px;
     cursor: pointer;
@@ -235,7 +248,7 @@ body.dark {
     display: block;
     width: 100%;
     border: none;
-    background: var(--button-color);
+    background: var(--primary-neutro-color);
     color: #fff;
     border-radius: 5px;
     font-size: 18px;
@@ -261,7 +274,7 @@ body.dark {
 
 /* Botón del carrito */
 .cart-btn {
-  background-color: var(--button-color); /* Color verde del botón */
+  background-color: var(--primary-neutro-color); /* Color verde del botón */
   color: white; /* Color del texto */
   padding: 12px 20px; /* Espaciado interno */
   border-radius: 8px; /* Bordes redondeados */
@@ -420,7 +433,7 @@ body.dark {
 }
 
 .font-button {
-  background-color: var(--button-color);
+  background-color: var(--primary-neutro-color);
   color: white;
   border: none;
   border-radius: 50%;
@@ -459,8 +472,8 @@ body.dark {
 }
 
 .boton-item {
-  background-color: var(--button-color);
-  color: var(--contentCart);
+  background-color: var(--primary-neutro-color);
+  color: var(--tertiary-gray);
   border: none;
   padding: 10px 20px;
   border-radius: 5px;
@@ -550,9 +563,9 @@ body.dark {
 }
 
 .boton {
-    background-color: var(--button-color);
+    background-color: var(--primary-neutro-color);
     border: none;
-    color: var(--contentCart);
+    color: var(--tertiary-gray);
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
@@ -563,9 +576,9 @@ body.dark {
 }
 
 .boton3 {
-    background-color: var(--button-color);
+    background-color: var(--primary-neutro-color);
     border: none;
-    color: var(---contentCart);
+    color: var(---tertiary-gray);
     padding: 10px 20px;
     margin: 0px 0px 0px 75px;
     font-size: 16px;
@@ -577,9 +590,9 @@ body.dark {
 }
 
 .boton4 {
-    background-color: var(--button-color);
+    background-color: var(--primary-neutro-color);
     border: none;
-    color: var(--contentCart);
+    color: var(--tertiary-gray);
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
