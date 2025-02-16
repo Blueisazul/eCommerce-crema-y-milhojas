@@ -9,7 +9,7 @@ body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
     line-height: 1.6;
-    color: #333;
+    color: var(--tertiary-gray3);
     background-color: #fdfdfd;
 }
 
@@ -79,7 +79,7 @@ body {
     margin: 0 auto;
     line-height: 1.8;
     max-width: 800px;
-    color: #555;
+    color: var(--tertiary-gray2);
 }
 
 /* Valores */
@@ -104,7 +104,7 @@ body {
 }
 
 .valor {
-    background: #fff;
+    background: var(--tertiary-neutro-color);
     text-align: center;
     padding: 20px;
     border-radius: 10px;
@@ -114,8 +114,8 @@ body {
 }
 
 .valor:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transform: translateY(-10px) scale(1.1);
+    /* box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); */
 }
 
 .valor i {
@@ -127,12 +127,12 @@ body {
 .valor h3 {
     font-size: 24px;
     margin-bottom: 10px;
-    color: #333;
+    color: var(--tertiary-gray3);
 }
 
 .valor p {
     font-size: 16px;
-    color: #555;
+    color: var(--tertiary-gray2);
 }
 
 /* Equipo */
