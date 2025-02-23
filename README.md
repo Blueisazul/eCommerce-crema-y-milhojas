@@ -32,7 +32,7 @@ git clone https://github.com/Blueisazul/eCommerce-crema-y-milhojas.git
 
 ```
 
-Abre el archivo ```index.html```html en tu navegador.
+Abre el archivo ```html index.html ``` en tu navegador.
 
 Explora las funcionalidades del e-commerce.
 
