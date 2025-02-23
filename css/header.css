@@ -1,6 +1,6 @@
 /* Header Styles */
 .header {
-    background-color: var(--headerColor); /* Amber-50 */
+    background-color: var(--secondary-color); /* Amber-50 */
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
   }
   
@@ -42,12 +42,12 @@
     display: flex;
     align-items: center;
     gap: 12px;
-    color: var(--textHeader-color);
+    color: var(--primary-neutro-color);
  
   }
   
   .order-button {
-    background-color: var(--button-color);; /* Amber-600 */
+    background-color: var(--primary-neutro-color); /* Amber-600 */
     color: white;
     padding: 8px 16px;
     border-radius: 9999px;
