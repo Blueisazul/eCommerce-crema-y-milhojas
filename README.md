@@ -1,7 +1,7 @@
 # 🛒 eCommerce Crema y Milhojas
 Este es un proyecto de e-commerce desarrollado con HTML, CSS y JavaScript, diseñado para mejorar la experiencia de compra en línea. La tienda ofrece una interfaz intuitiva y funcionalidades dinámicas para la navegación y gestión de productos.
 
-### 🚀 *Características*
+## 🚀 *Características*
 
 ✅ Diseño Responsivo - Adaptable a distintos dispositivos.
 
@@ -14,7 +14,7 @@ Este es un proyecto de e-commerce desarrollado con HTML, CSS y JavaScript, dise�
 ✅ Optimización con CSS - Estilos personalizados para una presentación atractiva.
 
 
-### 🛠 Tecnologías utilizadas
+## 🛠 Tecnologías utilizadas
 
 HTML5 - Estructura del sitio web.
 
@@ -23,7 +23,7 @@ CSS3 - Estilización y diseño responsivo.
 JavaScript (ES6) - Interactividad y funcionalidades dinámicas.
 
 
-### 📌 Instalación
+## 📌 Instalación
 
 Clona este repositorio:
 
@@ -36,9 +36,9 @@ Abre el archivo ``` index.html ``` en tu navegador.
 
 Explora las funcionalidades del e-commerce.
 
----
 
-### 📷 Vista previa
+
+## 📷 Vista previa
 
 ---
 
