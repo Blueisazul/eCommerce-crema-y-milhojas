@@ -17,11 +17,11 @@
     --tertiary-gray: #fff;              /* Blanco - Gris*/
     --tertiary-gray2: #555;              /* Blanco - Gris*/
     --tertiary-gray3: #333;              /* Blanco - Gris*/
+    --secondary-gray1: #000;             /* Negro - Gris*/  
 /* Degradados */
     --primary-white: #ffefd5;           /* Anaranjado opaco - Blanco*/
     --shadow-black: rgba(0, 0, 0, 0.1); /* Negro - Blanco */
 
-    --headerColor: #000;
     --panelCarrito-color: #000;
     --tran-03: all 0.3s ease;
     --darkButton: #292929;
@@ -35,13 +35,13 @@ body.dark {
     --tertiary-gray: #efefef;           /* Blanco - Gris*/
     --tertiary-gray2: #dcdcdc;          /* Blanco - Gris*/
     --tertiary-gray3: #dcdcdc;              /* Blanco - Gris*/
+    --secondary-gray1: #F8F8F8;             /* Negro - Gris*/  
     --secondary-neutro-color: #fff;
     --tertiary-neutro-color: #000;
 /* Degradados */   
     --primary-white: #fff;      /* Anaranjado opaco - Blanco*/
     --shadow-black: rgba(195, 195, 195, 0.1); /* Negro - Blanco */
 
-    --headerColor: #F8F8F8;
     --primary-color-dark: #000;  
     --contactText: #fff;   
 }
