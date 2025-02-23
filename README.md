@@ -5,7 +5,11 @@ Este es un e-commerce inclusivo desarrollado con HTML, CSS y JavaScript, diseña
 
 ✅ Diseño Responsivo - Adaptable a distintos dispositivos.
 
-✅ Carrito de Compras - Permite agregar y eliminar productos en tiempo real.
+✅ **Carrito de Compras** - Permite agregar y eliminar productos en tiempo real.
+
+✅ **Modo Oscuro** - Mejora la visibilidad y reduce la fatiga visual.
+
+✅ **Ajuste de Tamaño de Texto** - Permite aumentar el tamaño de la letra en la descripción del producto.
 
 ✅ Interfaz Dinámica - Interacciones con JavaScript para una mejor experiencia.
 
