@@ -531,6 +531,10 @@ body.dark {
     gap: 20px; /* Aumenta el espacio entre los contenedores */
 }
 
+.contenedor-doble {
+    padding: 0px 0px 20px 0px;
+}
+
 .contenedor-doble .contenedor-item, 
 .contenedor-cuadruple .contenedor-item {
     flex: 1;
