@@ -1,5 +1,5 @@
-# 🛒 eCommerce Crema y Milhojas
-Este es un proyecto de e-commerce desarrollado con HTML, CSS y JavaScript, diseñado para mejorar la experiencia de compra en línea. La tienda ofrece una interfaz intuitiva y funcionalidades dinámicas para la navegación y gestión de productos.
+# 🛒 eCommerce Crema y Milhojas 🌍✨
+Este es un e-commerce inclusivo desarrollado con HTML, CSS y JavaScript, diseñado para mejorar la experiencia de compra en línea con características de accesibilidad.
 
 ## 🚀 *Características*
 
