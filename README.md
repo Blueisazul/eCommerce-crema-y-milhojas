@@ -52,9 +52,9 @@ git clone https://github.com/Blueisazul/eCommerce-crema-y-milhojas.git
 
 ### Opción 2: Descargar el ZIP
 
-1. Ve al repositorio en GitHub: *eCommerce Crema y Milhojas*.
+1. Ve al repositorio en GitHub: **eCommerce Crema y Milhojas**.
    
-2. Haz clic en el **botón Code** *(verde)* y selecciona **Download ZIP**.
+2. Haz clic en el botón **Code** (verde) y selecciona **Download ZIP**.
    
 3. Extrae el contenido del archivo ZIP en tu computadora.
    
