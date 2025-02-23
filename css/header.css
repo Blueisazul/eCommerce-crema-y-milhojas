@@ -1,6 +1,6 @@
 /* Header Styles */
 .header {
-    background-color: var(--secondary-color); /* Amber-50 */
+    background-color: var(--secondary-gray1); /* Amber-50 */
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
   }
   
