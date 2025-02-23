@@ -39,8 +39,6 @@ Este proyecto busca ser más inclusivo al ofrecer:
 
 ### Opción 1: Clonar el repositorio
 
-#### Opción 1: Clonar el repositorio
-
 + Clona este repositorio:
 
 ```sh
@@ -51,6 +49,16 @@ git clone https://github.com/Blueisazul/eCommerce-crema-y-milhojas.git
 + Abre el archivo ``` index.html ``` en tu navegador.
 
 + Explora las funcionalidades del e-commerce.
+
+### Opción 2: Descargar el ZIP
+
+1. Ve al repositorio en GitHub: *eCommerce Crema y Milhojas*.
+   
+2. Haz clic en el **botón Code** *(verde)* y selecciona **Download ZIP**.
+   
+3. Extrae el contenido del archivo ZIP en tu computadora.
+   
+4. Abre el archivo ``` index.html ``` en tu navegador.
 
 ## 📷 Vista previa
 
