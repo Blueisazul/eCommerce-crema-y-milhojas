@@ -29,10 +29,10 @@ Clona este repositorio:
 
 ```sh
 git clone https://github.com/Blueisazul/eCommerce-crema-y-milhojas.git
-cd eCommerce-crema-y-milhojas
+
 ```
 
-Abre el archivo index.html en tu navegador.
+Abre el archivo ```index.html```html en tu navegador.
 
 Explora las funcionalidades del e-commerce.
 
