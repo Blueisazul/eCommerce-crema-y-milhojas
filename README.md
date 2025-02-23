@@ -25,6 +25,16 @@ Este es un e-commerce inclusivo desarrollado con HTML, CSS y JavaScript, diseña
 
 🔸 **JavaScript (ES6)** - Interactividad y funcionalidades dinámicas.
 
+## ♿ Accesibilidad
+
+Este proyecto busca ser más inclusivo al ofrecer:
+
++ **Modo oscuro** para mejorar la legibilidad y reducir el cansancio visual.
+  
++ **Ajuste de tamaño de texto** en la descripción de los productos para facilitar la lectura.
+  
+🔹 *Próximas mejoras: Integración de más herramientas de accesibilidad como navegación por teclado y compatibilidad con lectores de pantalla.*
+
 ## 📥 Instalación
 
 + Clona este repositorio:
