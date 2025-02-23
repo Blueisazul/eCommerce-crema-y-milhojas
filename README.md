@@ -37,7 +37,13 @@ Este proyecto busca ser más inclusivo al ofrecer:
 
 ## 📥 Instalación
 
+# Opción 1: Clonar el repositorio
+
+### Opción 1: Clonar el repositorio
+
 #### Opción 1: Clonar el repositorio
+
+##### Opción 1: Clonar el repositorio
 
 + Clona este repositorio:
 
