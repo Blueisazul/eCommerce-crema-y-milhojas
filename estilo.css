@@ -14,10 +14,10 @@
     --primary-neutro-color: #F4952C;    /* Anaranjado - Cenizo */
     --secondary-neutro-color: #000;     /* Negro - Blanco */
     --tertiary-neutro-color: #fff;      /* Blanco - Negro */
-    --tertiary-gray: #fff;              /* Blanco - Gris*/
-    --tertiary-gray2: #555;              /* Blanco - Gris*/
-    --tertiary-gray3: #333;              /* Blanco - Gris*/
-    --secondary-gray1: #000;             /* Negro - Gris*/  
+    --tertiary-gray: #fff;              /* Blanco - Gris */
+    --tertiary-gray2: #555;              /* Blanco - Gris */
+    --tertiary-gray3: #333;              /* Blanco - Gris */
+    --secondary-gray1: #000;             /* Negro - Gris */  
 /* Degradados */
     --primary-white: #ffefd5;           /* Anaranjado opaco - Blanco*/
     --shadow-black: rgba(0, 0, 0, 0.1); /* Negro - Blanco */
