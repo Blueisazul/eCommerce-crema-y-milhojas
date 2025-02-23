@@ -3,7 +3,7 @@ Este es un e-commerce inclusivo desarrollado con HTML, CSS y JavaScript, diseña
 
 ## 🚀 *Características*
 
-✅ Diseño Responsivo - Adaptable a distintos dispositivos.
+✅ **Diseño Responsivo** - Adaptable a distintos dispositivos.
 
 ✅ **Carrito de Compras** - Permite agregar y eliminar productos en tiempo real.
 
@@ -11,11 +11,11 @@ Este es un e-commerce inclusivo desarrollado con HTML, CSS y JavaScript, diseña
 
 ✅ **Ajuste de Tamaño de Texto** - Permite aumentar el tamaño de la letra en la descripción del producto.
 
-✅ Interfaz Dinámica - Interacciones con JavaScript para una mejor experiencia.
+✅ **Interfaz Dinámica** - Interacciones con JavaScript para una mejor experiencia.
 
-✅ Módulos Reutilizables - Estructura organizada con componentes de header y footer.
+✅ **Módulos Reutilizables** - Estructura organizada con componentes de header y footer.
 
-✅ Optimización con CSS - Estilos personalizados para una presentación atractiva.
+✅ **Optimización con CSS** - Estilos personalizados para una presentación atractiva.
 
 ## 🍉 Tecnologías utilizadas
 
@@ -25,18 +25,18 @@ Este es un e-commerce inclusivo desarrollado con HTML, CSS y JavaScript, diseña
 
 🔸 **JavaScript (ES6)** - Interactividad y funcionalidades dinámicas.
 
-## 📌 Instalación
+## 📥 Instalación
 
-Clona este repositorio:
++ Clona este repositorio:
 
 ```sh
 git clone https://github.com/Blueisazul/eCommerce-crema-y-milhojas.git
 
 ```
 
-Abre el archivo ``` index.html ``` en tu navegador.
++ Abre el archivo ``` index.html ``` en tu navegador.
 
-Explora las funcionalidades del e-commerce.
++ Explora las funcionalidades del e-commerce.
 
 ## 📷 Vista previa
 
