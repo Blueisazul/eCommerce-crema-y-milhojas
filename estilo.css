@@ -32,14 +32,14 @@ body.dark {
 /* Paleta neutra */
     --primary-neutro-color: #242526;    /* Anaranjado - Cenizo */
     --tertiary-neutro-color: #000;      /* Blanco - Negro */
-    --tertiary-gray: #efefef;           /* Blanco - Gris*/
-    --tertiary-gray2: #dcdcdc;          /* Blanco - Gris*/
-    --tertiary-gray3: #dcdcdc;              /* Blanco - Gris*/
-    --secondary-gray1: #F8F8F8;             /* Negro - Gris*/  
+    --tertiary-gray: #efefef;           /* Blanco - Gris */
+    --tertiary-gray2: #dcdcdc;          /* Blanco - Gris */
+    --tertiary-gray3: #dcdcdc;              /* Blanco - Gris */
+    --secondary-gray1: #F8F8F8;             /* Negro - Gris */  
     --secondary-neutro-color: #fff;
     --tertiary-neutro-color: #000;
 /* Degradados */   
-    --primary-white: #fff;      /* Anaranjado opaco - Blanco*/
+    --primary-white: #fff;      /* Anaranjado opaco - Blanco */
     --shadow-black: rgba(195, 195, 195, 0.1); /* Negro - Blanco */
 
     --primary-color-dark: #000;  
